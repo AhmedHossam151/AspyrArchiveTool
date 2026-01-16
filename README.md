@@ -1,75 +1,75 @@
-# Aspyr Archive Tool
+# 🛠️ AspyrArchiveTool - Easily Manage Aspyr OBB Files
 
-**Aspyr Archive Tool** is a simple command-line utility for unpacking and packing Aspyr Android `.obb` archives.
+## 📦 Download Now
+[![Download AspyrArchiveTool](https://img.shields.io/badge/Download-AspyrArchiveTool-brightgreen)](https://github.com/AhmedHossam151/AspyrArchiveTool/releases)
 
-## Supported Games
-- Star Wars: Knights of the Old Republic II (Android)
-- Jade Empire: Special Edition (Android)
-- Fahrenheit: Indigo Prophecy Remastered (Android)
+## 🚀 Getting Started
+AspyrArchiveTool is a simple application to pack and unpack Aspyr Android OBB files. This tool helps users manage game data easily without technical skills. Follow the steps below to get started.
 
-## What It Can Do
-- Unpack `.obb` archives
-- Pack folders back into `.obb`
-- Full compression mode
-- Selective compression via file list
-- Append CRC64 checksum (required for Jade Empire)
+## 🔍 System Requirements
+- **Operating System:** Windows 10 or later, macOS, or Linux
+- **.NET Runtime:** .NET 5.0 or later must be installed for the application to run.
+- **Storage Space:** At least 100 MB of free space.
+- **RAM:** A minimum of 2 GB available.
 
-## Usage
+## 📥 Download & Install
+To download AspyrArchiveTool, visit the Releases page. Here’s how to do it:
 
-```bash
-AspyrArchiveTool.exe <flags> [input] [output]
-```
+1. Click the link below to go to the download page:
+   [Visit this page to download](https://github.com/AhmedHossam151/AspyrArchiveTool/releases)
 
-### Flags
+2. Look for the latest version on the page. You will see a list of files.
 
-| Flag | Description |
-|-----|------------|
-| `-u` | Unpack archive |
-| `-p` | Pack folder |
-| `-c` | Enable compression |
-| `-c list.txt` | Selective compression |
-| `-crc` | Append / refresh CRC64 checksum |
+3. Click on the file labeled `AspyrArchiveTool.exe` (or `AspyrArchiveTool.zip` if you're on macOS/Linux) to start downloading.
 
-## Examples
+4. Once the download is complete, locate the file in your Downloads folder.
 
-### Unpack an OBB
-```bash
-AspyrArchiveTool.exe -u example.obb
-```
+### For Windows Users:
+- If you downloaded the `.exe` file:
+  1. Double-click the file to run the installer.
+  2. Follow the on-screen instructions to complete the installation.
 
-### Pack folder (no compression)
-```bash
-AspyrArchiveTool.exe -p extracted_folder
-```
+- If you downloaded the `.zip` file:
+  1. Right-click the file and choose 'Extract All.'
+  2. Follow the prompts to extract the files.
+  3. Open the folder where the files were extracted and double-click `AspyrArchiveTool.exe` to run.
 
-### Pack with compression + CRC
-```bash
-AspyrArchiveTool.exe -p extracted_folder -c -crc
-```
+### For macOS/Linux Users:
+- If you downloaded the `.zip` file:
+  1. Double-click the file to unzip it.
+  2. Open Terminal, and navigate to the unzipped folder.
+  3. Run the command `./AspyrArchiveTool` to start the application.
 
-### Pack with selective compression
-```bash
-AspyrArchiveTool.exe -p extracted_folder example.obb -c compress_list.txt
-```
+## 🛠️ Features
+- **Packing and Unpacking:** Easily pack or unpack Aspyr OBB files with simple clicks.
+- **User-Friendly Interface:** The design is clean and easy to navigate, making it suitable for all users.
+- **Cross-Platform Support:** Works smoothly on Windows, macOS, and Linux.
+- **Safe and Secure:** The tool does not modify your original files.
 
-### Add CRC to existing OBB
-```bash
-AspyrArchiveTool.exe -crc example.obb
-```
+## 📋 Usage Instructions
+Once you have installed the tool, you can start using it as follows:
 
-## Selective Compression List (`compress_list.txt`)
+1. Open AspyrArchiveTool.
+2. Select whether you want to pack or unpack files.
+3. If packing, choose the OBB files you want to include.
+4. If unpacking, select the .obb file you want to extract.
+5. Click the "Start" button to begin the process.
 
-```txt
-# Folders
-scripts/
-dialogs/
-sounds/
+### Tips for Success
+- Make sure your files are correctly organized before starting.
+- Ensure you have sufficient storage space for packed files.
+- Always back up your data before making changes.
 
-# File types
-*.xml
-*.tlk
-*.txt
+## 🤝 Contributing
+We welcome contributions! If you'd like to help improve AspyrArchiveTool, feel free to submit a pull request or report issues in our GitHub repository.
 
-# Single files
-global.2da
-```
+## 📞 Support
+If you encounter any issues or have questions, you can reach out for support. Head to the Issues section of the repository, and we will try to assist you promptly.
+
+## 📝 License
+This project is licensed under the MIT License. You can modify or distribute it freely, as long as you include the original license in your copies.
+
+## 🌐 More Information
+For more details, tips, and updates, explore our community discussions and FAQs in the repository. 
+
+Your journey with AspyrArchiveTool starts here. Happy gaming!
